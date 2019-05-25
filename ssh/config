@@ -1,0 +1,2 @@
+Host github.com
+  IdentityFile ~/.ssh/my_super_secret_private_key
