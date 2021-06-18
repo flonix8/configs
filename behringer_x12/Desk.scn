@@ -13,10 +13,10 @@
 /ch/01/dyn/filter OFF 3.0 990.9
 /ch/01/insert OFF OFF
 /ch/01/eq ON
-/ch/01/eq/1 PEQ 129.1 +2.75 1.2
-/ch/01/eq/2 PEQ 328.1 -2.75 2.0
-/ch/01/eq/3 PEQ 2k60 +2.25 1.5
-/ch/01/eq/4 PEQ 8k73 +4.50 1.1
+/ch/01/eq/1 PEQ 129.1 +0.00 1.2
+/ch/01/eq/2 PEQ 285.8 +1.50 1.2
+/ch/01/eq/3 PEQ 2k69 +4.00 1.5
+/ch/01/eq/4 HShv 5k38 +3.00 1.0
 /ch/01/mix ON   0.0 ON -100
 /ch/01/mix/01   -oo OFF POSTEQ +0
 /ch/01/mix/02   -oo OFF POSTEQ
