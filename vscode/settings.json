@@ -12,5 +12,6 @@
   "editor.tabSize": 2,
   "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
   "editor.fontSize": 12.5,
-  "editor.fontWeight": "500"
+  "editor.fontWeight": "500",
+  "terminal.integrated.fontSize": 13
 }
