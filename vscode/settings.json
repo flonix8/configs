@@ -1,0 +1,16 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "files.autoSave": "afterDelay",
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "tab.activeBorderTop": "#7ea9ff",
+      "editor.selectionBackground": "#648ce244",
+      "editor.selectionHighlightBorder": "#00000000",
+      "editor.selectionHighlightBackground": "#a2b2d421"
+    }
+  },
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 12.5,
+  "editor.fontWeight": "500"
+}
