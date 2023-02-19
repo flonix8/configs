@@ -4,6 +4,7 @@
   "workbench.colorCustomizations": {
     "[One Dark Pro]": {
       "tab.activeBorderTop": "#7ea9ff",
+      "tab.activeBorder": "#ff000000",
       "editor.selectionBackground": "#648ce244",
       "editor.selectionHighlightBorder": "#00000000",
       "editor.selectionHighlightBackground": "#a2b2d421"
